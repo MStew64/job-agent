@@ -1,0 +1,29 @@
+{
+  "titles": [
+    "software engineer",
+    "software developer",
+    "backend engineer",
+    "frontend engineer",
+    "full stack engineer"
+  ],
+  "location_keywords": [
+    "san francisco",
+    "san jose",
+    "oakland",
+    "palo alto",
+    "mountain view",
+    "sunnyvale",
+    "santa clara",
+    "redwood city",
+    "san mateo",
+    "bay area",
+    "maryland",
+    "baltimore",
+    "bethesda",
+    "rockville",
+    "gaithersburg",
+    "columbia",
+    "annapolis"
+  ],
+  "include_remote": true
+}
